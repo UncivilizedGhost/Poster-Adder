@@ -1,7 +1,8 @@
 def URLget(name,media):
     from tmdbv3api import TMDb, Search
     tmdb = TMDb()
-    tmdb.api_key = "af78f153258ffed0f4a5b45fa5b6ad5b"
+    
+    tmdb.api_key = input("Enter api key")
     search = Search()
     if media=='t':
         results = search.tv_shows({"query": name})
