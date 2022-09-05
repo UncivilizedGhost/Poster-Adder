@@ -16,17 +16,3 @@ Adds poster links to markdown files to improve movie/T.V records in programs lik
 
 ***
 
-### TO-DO list: 
-- [ ] *Add GUI*\*
-- [ ] Make adding api key permenant
-- [ ] Add excutable
-- [ ] Add option for book covers
-- [ ] Add option for video game posters
-- [ ] *Add option to download posters*\*
-
-\*Italizied options will probaly only be added if this project gains any traction
-
-***
-### Notes:
-- This has never been tested on any devices other then my P.C
-- This project was originally created for my personal use.
