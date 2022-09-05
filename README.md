@@ -11,7 +11,7 @@ Adds poster links to markdown files to improve movie/T.V records in programs lik
 5. Open Batch.py
 7. Enter the address of the folder which contains all the markdown files
 8. Enter api key
-9. ENter m if the files are movies and Tt if they are T.V shows
+9. Enter m if the files are movies and Tt if they are T.V shows
 10. Wait
 
 ***
